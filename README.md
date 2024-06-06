@@ -3,8 +3,6 @@
 
 ![](https://github.com/MartinCesano/MartinCesano/blob/main/fbda96f6-4b71-4194-9f85-069180912ce3.jpg)
 
-<br>
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi:**
 <br>
 
@@ -14,63 +12,66 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades y tecnologias</b>
+<table border="0" width="100%" align="center">
+  <tr>
+    <td width="50%">  <br>  
+      
+  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades y tecnologias</b>
 
-- **Diseño grafico y Frontend**:
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,figma,ps,angular" />
-  </a>
-</p>
-
-- **Logica y Backend**:
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=java,nodejs,ts,py,c" />
-  </a>
-</p>
-
-- **Bases de Datos**:
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=azure,mysql,postgres,sqlite" />
-  </a>
-</p>
-
-- **Herramientas**:
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-  </a>
-</p>
-
-- **Sistemas Operativos**:
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
-  </a>
-</p>
-</p>
-</p>
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<p align="center">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCesano&theme=blue-green" />
-  </a>
-<br>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=MartinCesano&theme=blue-green" />
-  </a>
-</p>
-</div>
-<br>
+  - **Diseño grafico y Frontend**:
+  <p align="center">
+    <a>
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,figma,ps,angular" />
+    </a>
+  </p>
+  
+  - **Logica y Backend**:
+  <p align="center">
+    <a>
+      <img src="https://skillicons.dev/icons?i=java,nodejs,ts,py,c" />
+    </a>
+  </p>
+  
+  - **Bases de Datos**:
+  <p align="center">
+    <a>
+      <img src="https://skillicons.dev/icons?i=azure,mysql,postgres,sqlite" />
+    </a>
+  </p>
+  
+  - **Herramientas**:
+  <p align="center">
+    <a>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+    </a>
+  </p>
+  
+  - **Sistemas Operativos**:
+  <p align="center">
+    <a>
+      <img src="https://skillicons.dev/icons?i=windows,linux" />
+    </a>
+  </p>
+ 
+  </td>
+  <td width="50%">
+    
+  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+  <div align="center">
+  <p align="center">
+    <a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCesano" />
+    </a>
+  <br>
+    <a>
+      <img src="https://github-readme-stats.vercel.app/api?username=MartinCesano" />
+    </a>
+  </p>
+  </div>
+  <br>       
+  </td>
+  </tr>
+</table>
 
 ## <b>Redes Sociales</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -89,9 +90,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-<br>	
 </div>
-<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
+
