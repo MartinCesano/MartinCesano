@@ -77,13 +77,13 @@
 <br>
 <div align='left'>
 <p align="center">
-  <a href="https://www.instagram.com/martin_cesano13/">
+  <a href="https://www.instagram.com/martin_cesano13/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://x.com/martin_cesano13">
+  <a href="https://x.com/martin_cesano13" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/martin-cesano-730105247/">
+  <a href="https://www.linkedin.com/in/martin-cesano-730105247/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:cesano305@gmail.com" target="_blank"">
