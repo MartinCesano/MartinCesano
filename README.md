@@ -28,21 +28,21 @@
   - **Logica y Backend**:
   <p align="center">
     <a>
-      <img src="https://skillicons.dev/icons?i=java,nodejs,ts,py,c" />
+      <img src="https://skillicons.dev/icons?i=java,nodejs,ts,py,c,nestjs" />
     </a>
   </p>
   
   - **Bases de Datos**:
   <p align="center">
     <a>
-      <img src="https://skillicons.dev/icons?i=azure,mysql,postgres,sqlite" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
     </a>
   </p>
   
   - **Herramientas**:
   <p align="center">
     <a>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,azure,docker" />
     </a>
   </p>
   
