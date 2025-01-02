@@ -21,14 +21,14 @@
   - **Diseño grafico y Frontend**:
   <p align="center">
     <a>
-      <img src="https://skillicons.dev/icons?i=react,js,html,css,figma,ps,angular" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,figma,ps,angular" />
     </a>
   </p>
   
   - **Logica y Backend**:
   <p align="center">
     <a>
-      <img src="https://skillicons.dev/icons?i=java,nodejs,ts,py,c,nestjs" />
+      <img src="https://skillicons.dev/icons?i=java,nodejs,ts,py,nestjs" />
     </a>
   </p>
   
