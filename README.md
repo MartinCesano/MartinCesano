@@ -12,7 +12,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<table border="0" width="100%" align="center">
+
   <tr>
     <td width="50%">  <br>  
       
@@ -56,22 +56,7 @@
   </td>
   <td width="50%">
     
-  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-  <div align="center">
-  <p align="center">
-    <a>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCesano" />
-    </a>
-  <br>
-    <a>
-      <img src="https://github-readme-stats.vercel.app/api?username=MartinCesano" />
-    </a>
-  </p>
-  </div>
-  <br>       
-  </td>
-  </tr>
-</table>
+ 
 
 ## <b>Redes Sociales</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
